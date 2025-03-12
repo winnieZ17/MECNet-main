@@ -12,7 +12,7 @@ This project provides the code and results for 'A Cross-fusion Network for Salie
 
 
 # Saliency maps
-   We provide saliency maps of our MCoCoNet on three datasets in 
+   We provide saliency maps of our MECNet on three datasets in 
 
    
 # Training
