@@ -3,7 +3,7 @@
 This project provides the code and results for 'A Cross-fusion Network for Salient Object Detection in Optical Remote Sensing Images'
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/winnieZ17/MCoCoNet-main/blob/main/images/MECNet.png">
+   <img src="https://github.com/winnieZ17/MECNet-main/blob/main/images/MECNet.png">
    </div>
    
    
